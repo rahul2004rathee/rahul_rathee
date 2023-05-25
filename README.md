@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul2004rathee
+- 👋 Hi, I’m rahul rathee
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on 
